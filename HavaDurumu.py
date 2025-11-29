@@ -62,3 +62,5 @@ detay_etiketi.pack()
 pencere.mainloop()
 
 print("Bu da yeni eklenen satir")
+
+print("şimdi beni görmen lazım git")
