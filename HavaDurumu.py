@@ -48,7 +48,7 @@ baslik.pack(pady=20)
 
 giris_kutusu = tk.Entry(pencere, font=("Arial", 14), justify="center")
 giris_kutusu.pack(pady=5)
-giris_kutusu.insert(0, "Istanbul") # Varsayılan yazı
+giris_kutusu.insert(0, "Istanbul")
 
 buton = tk.Button(pencere, text="SORGULA 🔍", bg="orange", fg="white", font=("Arial", 12, "bold"), command=hava_durumunu_getir)
 buton.pack(pady=15)
