@@ -83,3 +83,5 @@ def canli_demo_baslat():
 
 if __name__ == "__main__":
     canli_demo_baslat()
+
+    #Bu simülasyon, yapay zekanın gerçek zamanlı olarak bir ilacın etkisini değerlendirdiği bir senaryoyu canlandırır.
