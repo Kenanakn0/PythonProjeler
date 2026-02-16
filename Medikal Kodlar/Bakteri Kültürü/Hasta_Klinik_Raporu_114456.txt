@@ -1,0 +1,16 @@
+==================================================
+   LAZER BIOSPECKLE HIZLI ANTİBİYOGRAM RAPORU
+==================================================
+Hasta ID      : #84729
+Numune Tipi   : Kan Kültürü
+Rapor Saati   : 11:44:56
+==================================================
+Analiz Süresi : 85 Dakika
+Yapay Zeka Güven Skoru : %99.9
+--------------------------------------------------
+[SONUÇLAR]
+-> İLAÇ A : DUYARLI (Hücre canlılığı eşiğin altına indi)
+-> İLAÇ B : DİRENÇLİ (Hücre canlılığı devam ediyor)
+==================================================
+Sistem Onayı: OTOMATİK ONAYLANDI
+Hekim Kaşe/İmza: ................................
