@@ -1,16 +1,14 @@
 # Python Mini Projeler ve Pratikler
 
-Bu depo, Python öğrenme sürecimde temel algoritmaları, kütüphane kullanımlarını ve Nesne Yönelimli Programlama (OOP) mantığını test etmek için yazdığım mini betiklerin (script) bulunduğu bir çalışma alanıdır.
+Bu depo, Python öğrenme sürecimde temel algoritmaları, kütüphane kullanımlarını ve Nesne Yönelimli Programlama (OOP) mantığını test etmek için yazdığım çeşitli mini betiklerin (script) bulunduğu bir çalışma alanıdır.
 
 ## İçerikte Neler Var?
-Depodaki dosyalar genellikle tek bir amaca odaklanan temel seviye uygulamalardır:
+Bu depodaki kodlar genellikle tek bir amaca odaklanan temel seviye uygulamalardır. İçerik zamanla güncellenmekte olup genel olarak şu çalışma konularını kapsar:
 
-* **HavaDurumu.py:** Dış kaynaklı servislerden (API) veri çekme ve veriyi işleme pratikleri.
-* **720p_videoindirici.py:** Üçüncü parti kütüphane kullanımı ve dosya/veri indirme işlemleri.
-* **Ajanda.py / gorevler.py:** Temel CRUD (Ekle/Oku/Güncelle/Sil) mantığı ve veri tutma pratikleri.
-* **Araba.py / Araba2.py:** Python'da Sınıf (Class) yapısı, nesne oluşturma ve temel OOP testleri.
-* **cizim.py:** Temel grafik ve çizim kütüphanelerine (turtle vb.) giriş denemeleri.
-* **Medikal Kodlar (Klasör):** Sağlık alanındaki bazı temel algoritmaların Python ile yazılmış versiyonları.
+* **Dış Kaynak (API) Kullanımı:** Web üzerinden veri çekme, ayrıştırma ve işleme pratikleri.
+* **Kütüphane ve Modül İşlemleri:** Üçüncü parti Python modüllerinin projelere entegrasyonu (veri indirme, otomasyon, araç geliştirme vb.).
+* **Temel OOP Denemeleri:** Sınıf (Class) yapısı, nesne oluşturma ve veri kapsülleme gibi Nesne Yönelimli Programlama kavramlarının test edildiği kodlar.
+* **Algoritma ve Veri Yönetimi:** Günlük problemleri çözmeye yönelik temel mantık denemeleri ve listeler/sözlükler üzerinden veri tutma pratikleri.
 
 ## Amacı
-Büyük ve tek bir projeden ziyade; dosya işlemleri (File I/O), hata yakalama (Exception Handling) ve modül kullanımı gibi Python'un farklı yeteneklerini denediğim, süreç içinde güncellediğim kişisel bir kod arşividir.
+Büyük ve tek parça bir projeden ziyade; Python'un farklı yeteneklerini denediğim, hata yakalama (exception handling) ve kod organizasyonu gibi konularda kendimi geliştirdikçe yeni dosyalar eklediğim kişisel bir kod ve referans arşividir.
