@@ -1,0 +1,21 @@
+==================================================
+  LUNASCAN V13 - ANALIZ RAPORU
+  2026-03-16 14:02:28
+==================================================
+
+  Ornek sayisi : 45
+  Ort. pupil   : 13.67 mm
+  Guven        : %43
+
+  --------------------------------------------
+  SONUC
+  --------------------------------------------
+  Tani   : YETERSIZ VERI
+  Detay  : Guven dusuk: %43  Diam:13.7mm  Reflex:%33
+
+  UYARI: Bu sonuc simülasyondur.
+  650nm LED olmadigi icin gercek
+  eksantrik fotorefraksiyon yapilamamistir.
+  Kesin tani icin goz hekiminize basvurun.
+
+==================================================

@@ -1,0 +1,21 @@
+==================================================
+  LUNASCAN V13 - ANALIZ RAPORU
+  2026-03-18 19:08:09
+==================================================
+
+  Ornek sayisi : 45
+  Ort. pupil   : 28.87 mm
+  Guven        : %76
+
+  --------------------------------------------
+  SONUC
+  --------------------------------------------
+  Tani   : MIYOPI SUPHESI
+  Detay  : Iceri ofset tespit edildi  Diam:28.9mm  Ofset:-10.8px
+
+  UYARI: Bu sonuc simülasyondur.
+  650nm LED olmadigi icin gercek
+  eksantrik fotorefraksiyon yapilamamistir.
+  Kesin tani icin goz hekiminize basvurun.
+
+==================================================
